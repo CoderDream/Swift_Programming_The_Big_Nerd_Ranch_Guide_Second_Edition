@@ -45,6 +45,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 3.3 嵌套的if
 - 3.4 else if
 - 3.5 青铜挑战练习
+
 第4章 数
 - 4.1 整数
 - 4.2 创建整数实例
@@ -56,6 +57,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 4.5 浮点数
 - 2.3 字符串插值
 - 4.6 青铜挑战练习
+
 第5章 switch语句
 - 5.1 什么是switch
 - 5.2 开始使用switch
@@ -66,6 +68,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 5.3 switch与if/else
 - 5.4 青铜挑战练习
 - 5.5 白银挑战练习
+
 第6章 循环
 - 6.1 for-in循环
 - 6.2 类型推断概述
@@ -73,6 +76,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 6.4 repeat-while循环
 - 6.5 重提控制转移语句
 - 6.6 白银挑战练习
+
 第7章 字符串
 - 7.1 使用字符串
 - 7.2 Unicode
@@ -101,6 +105,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 9.6 青铜挑战练习
 - 9.7 白银挑战练习
 - 9.8 黄金挑战练习
+
 第10章 字典
 - 10.1 创建字典
 - 10.2 填充字典
@@ -111,6 +116,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 10.7 把字典转换为数组
 - 10.8 白银挑战练习
 - 10.9 黄金挑战练习
+
 第11章 集合
 - 11.1 什么是集合
 - 11.2 创建集合
@@ -120,6 +126,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 11.3.3 不相交
 - 11.4 青铜挑战练习
 - 11.5 白银挑战练习
+
 第12章 函数
 - 12.1 一个基本的函数
 - 12.2 函数参数
@@ -136,6 +143,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 12.9 青铜挑战练习
 - 12.10 白银挑战练习
 - 12.11 深入学习：Void
+
 第13章 闭包
 - 13.1 闭包的语法
 - 13.2 闭包表达式语法
@@ -159,6 +167,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 14.5 递归枚举
 - 14.6 青铜挑战练习
 - 14.7 白银挑战练习
+
 第15章 结构体和类
 - 15.1 新工程
 - 15.2 结构体
@@ -172,6 +181,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 15.8 白银挑战练习
 - 15.9 深入学习：类型方法
 - 15.10 深入学习：mutating方法
+
 第16章 属性
 - 16.1 基本的存储属性
 - 16.2 嵌套类型
@@ -185,6 +195,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 16.8 青铜挑战练习
 - 16.9 白银挑战练习
 - 16.10 黄金挑战练习
+
 第17章 初始化
 - 17.1 初始化方法语法
 - 17.2 结构体初始化
@@ -201,6 +212,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 17.6 白银挑战练习
 - 17.7 黄金挑战练习
 - 17.8 深入学习：初始化方法参数
+
 第18章 值类型与引用类型
 - 18.1 值语义
 - 18.2 引用语义
@@ -222,6 +234,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 19.6 mutating方法
 - 19.7 白银挑战练习
 - 19.8 黄金挑战练习
+
 第20章 错误处理
 - 20.1 错误分类
 - 20.2 对输入字符串做词法分析
@@ -232,6 +245,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 20.7 青铜挑战练习
 - 20.8 白银挑战练习
 - 20.9 黄金挑战练习
+
 第21章 扩展
 - 21.1 扩展已有类型
 - 21.2 扩展自己的类型
@@ -242,6 +256,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 21.3 青铜挑战练习
 - 21.4 青铜挑战练习
 - 21.5 白银挑战练习
+
 第22章 泛型
 - 22.1 泛型数据结构
 - 22.2 泛型函数和方法
@@ -253,6 +268,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 22.8 黄金挑战练习
 - 22.9 深入学习：理解可空类型
 - 22.10 深入学习：参数多态
+
 第23章 协议扩展
 - 23.1 为锻炼建模
 - 23.2 扩展Exercise
@@ -261,6 +277,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 23.5 关于命名：一个警世故事
 - 23.6 青铜挑战练习
 - 23.7 黄金挑战练习
+
 第24章 内存管理和ARC
 - 24.1 内存分配
 - 24.2 循环强引用
@@ -270,6 +287,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 24.6 青铜挑战练习
 - 24.7 白银挑战练习
 - 24.8 深入学习：我能获取实例的引用计数吗
+
 第25章 Equatable和Comparable
 - 25.1 符合Equatable
 - 25.1.1 插曲：中缀运算符
@@ -280,7 +298,9 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 25.5 黄金挑战练习
 - 25.6 白金挑战练习
 - 25.7 深入学习：自定义运算符
-第六部分 事件驱动的应用
+
+## 第六部分 事件驱动的应用 ##
+
 第26章 第一个Cocoa应用
 - 26.1 开始创建VocalTextEdit
 - 26.2 模型—视图—控制器
@@ -301,6 +321,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 26.7.5 现实世界中的Swift
 - 26.8 白银挑战练习
 - 26.9 黄金挑战练习
+
 第27章 第一个iOS应用
 - 27.1 开始创建iTahDoodle
 - 27.2 布局用户界面
@@ -313,6 +334,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 27.6 青铜挑战练习
 - 27.7 白银挑战练习
 - 27.8 黄金挑战练习
+
 第28章 互操作
 - 28.1 一个Objective-C工程
 - 创建联系人应用
@@ -321,6 +343,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 28.3 添加Objective-C类
 - 28.4 白银挑战练习
 - 28.5 黄金挑战练习
+
 第29章 结语
 - 29.1 接下来学习什么
 - 29.2 插个广告
