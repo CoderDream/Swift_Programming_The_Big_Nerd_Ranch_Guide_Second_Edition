@@ -12,13 +12,12 @@
   ![](https://github.com/CoderDream/Swift_Programming_The_Big_Nerd_Ranch_Guide_Second_Edition/blob/master/snapshot/Chapter01/snap_0103.png)
 
 - 源代码
-
-	```swift
+```swift
 import Cocoa
 var str = "Hello, playground"
 str += "!"
 print(str);
-	  ```
+```
 
 - 运行结果
   ![](https://github.com/CoderDream/Swift_Programming_The_Big_Nerd_Ranch_Guide_Second_Edition/blob/master/snapshot/Chapter01/snap_0104.png)
