@@ -4,6 +4,10 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 
 [电子书](https://www.jb51.net/books/624783.html) [源代码](https://github.com/CoderDream/Swift_Programming_The_Big_Nerd_Ranch_Guide_Second_Edition/blob/master/Swift%E7%BC%96%E7%A8%8B%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.%E7%AC%AC2%E7%89%88.%E4%BB%A3%E7%A0%81.zip)
 
+
+![](https://github.com/CoderDream/Swift_Programming_The_Big_Nerd_Ranch_Guide_Second_Edition/blob/master/snapshot/cover.png)
+
+
 ## 软硬件环境 ##
 
 - 硬件：iPhone 6 Plus（分辨率 1920 * 1080）
