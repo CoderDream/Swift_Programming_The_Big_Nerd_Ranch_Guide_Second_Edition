@@ -17,8 +17,9 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 	![](https://github.com/CoderDream/Swift_Programming_The_Big_Nerd_Ranch_Guide_Second_Edition/blob/master/snapshot/snap_0002.png)
 	![](https://github.com/CoderDream/Swift_Programming_The_Big_Nerd_Ranch_Guide_Second_Edition/blob/master/snapshot/snap_0003.png)
 
-	- IDE：Xcode 10 
+	- IDE：Xcode 10      
 	![](https://github.com/CoderDream/Swift_Programming_The_Big_Nerd_Ranch_Guide_Second_Edition/blob/master/snapshot/snap_0004.png)
+
 	- 语言：Swift 4.2
 
 ## 目录 ##
