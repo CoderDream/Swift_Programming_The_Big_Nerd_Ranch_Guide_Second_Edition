@@ -217,7 +217,8 @@ upCaseErrorDescription; // "604: RESOURCE WAS NOT FOUND. PLEASE TRY AGAIN."
 
 // Xcode 10 中必须把let改为var，而且必须初始化，否则报错
 // let description: String;
-// error: Optionals_0811.playground:17:1: error: variables currently must have an initial value when entered at the top level of the REPL
+// error: Optionals_0811.playground:17:1: 
+// error: variables currently must have an initial value when entered at the top level of the REPL
 // let description: String;
 // ^
 var description: String = "";

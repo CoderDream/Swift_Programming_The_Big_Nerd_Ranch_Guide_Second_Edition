@@ -22,9 +22,9 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 
 	- 语言：Swift 4.2
 
-## 目录 ##
+# 目录 #
 
-### 第一部分 起步 ###
+## 第一部分 起步 ##
 
 #### [第1章 起步](https://github.com/CoderDream/Swift_Programming_The_Big_Nerd_Ranch_Guide_Second_Edition/tree/master/Chapter01)
 
@@ -46,7 +46,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 
 2.4 青铜挑战练习
 
-第二部分 基础知识
+## 第二部分 基础知识 ##
 
 第3章 条件语句
 
@@ -130,7 +130,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 
 7.4 白银挑战练习
 
-第8章 可空类型
+### [第8章 可空类型](https://github.com/CoderDream/Swift_Programming_The_Big_Nerd_Ranch_Guide_Second_Edition/tree/master/Chapter08) ###
 
 8.1 可空类型
 
@@ -148,7 +148,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 
 8.8 白银挑战练习
 
-第三部分 容器和函数
+## 第三部分 容器和函数 ##
 
 第9章 数组
 
