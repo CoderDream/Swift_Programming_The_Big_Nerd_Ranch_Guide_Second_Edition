@@ -14,6 +14,7 @@
 - 源代码
 ```swift
 import Cocoa
+
 var str = "Hello, playground"
 str += "!"
 print(str);
