@@ -131,7 +131,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 11.4 青铜挑战练习
 - 11.5 白银挑战练习
 
-第12章 函数
+### [第12章 函数](https://github.com/CoderDream/Swift_Programming_The_Big_Nerd_Ranch_Guide_Second_Edition/tree/master/Chapter12) ###
 - 12.1 一个基本的函数
 - 12.2 函数参数
 - 12.2.1 参数名字
