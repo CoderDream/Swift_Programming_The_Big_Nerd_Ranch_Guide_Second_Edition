@@ -148,7 +148,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 12.10 白银挑战练习
 - 12.11 深入学习：Void
 
-第13章 闭包
+### [第13章 闭包](https://github.com/CoderDream/Swift_Programming_The_Big_Nerd_Ranch_Guide_Second_Edition/tree/master/Chapter13) ###
 - 13.1 闭包的语法
 - 13.2 闭包表达式语法
 - 13.3 函数作为返回值
@@ -191,11 +191,9 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 16.2 嵌套类型
 - 16.3 惰性存储属性
 - 16.4 计算属性
-- 读取方法和写入方法
 - 16.5 属性观察者
 - 16.6 类型属性
 - 16.7 访问控制
-- 控制读取方法和写入方法的可见度
 - 16.8 青铜挑战练习
 - 16.9 白银挑战练习
 - 16.10 黄金挑战练习
@@ -211,7 +209,6 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 - 17.3.3 类的必需初始化方法
 - 17.3.4 反初始化
 - 17.4 可失败的初始化方法
-- Town的可失败的初始化方法
 - 17.5 掌握初始化
 - 17.6 白银挑战练习
 - 17.7 黄金挑战练习
@@ -229,7 +226,7 @@ Swift Programming: The Big Nerd Ranch Guide, Second Edition, 9780134610610 by Ma
 
 ## 第五部分 Swift高级编程 ##
 
-第19章 协议
+### [第19章 协议](https://github.com/CoderDream/Swift_Programming_The_Big_Nerd_Ranch_Guide_Second_Edition/tree/master/Chapter19) ###
 - 19.1 格式化表格数据
 - 19.2 协议
 - 19.3 符合协议
